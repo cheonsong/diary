@@ -18,7 +18,7 @@ public class APIKeyProvider {
     }
     
     public func add() {
-        GMSPlacesClient.provideAPIKey("AIzaSyCufAiUM6o1EKSLquAZtZGa8WVRgr2iEiY")
-        GMSServices.provideAPIKey("AIzaSyCufAiUM6o1EKSLquAZtZGa8WVRgr2iEiY")
+        GMSPlacesClient.provideAPIKey("****")
+        GMSServices.provideAPIKey("****")
     }
 }

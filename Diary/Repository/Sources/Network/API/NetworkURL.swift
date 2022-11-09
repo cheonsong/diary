@@ -16,12 +16,12 @@ struct NetworkURL {
 
 struct AppKey {
     // Naver Client ID
-    static let naverClientID = "3lbxmOH9ULv_yXxcd7Ix"
-    static let naverClientSecret = "iEmQSS23O4"
+    static let naverClientID = "**"
+    static let naverClientSecret = "**"
     // Naver Cloud Platform
-    static let naverMapClientID = "syy0ze9dv3"
-    static let naverMapSecret = "25QGs8cCDZ9FSkw4c4SPmoxY18CoDjGzPbgD1sKq"
+    static let naverMapClientID = "**"
+    static let naverMapSecret = "**"
     
     // OpenWeatherMap AppKey
-    static let openWeatherMapAppKey = "7a30119259b375a62188ecebaf47d51b"
+    static let openWeatherMapAppKey = "**"
 }
